@@ -15,4 +15,7 @@ $signe = array(
     'Poissons' => "Votrez esprit vif et limpide facilite la resolution des problemes"
 );
 
+$connexion = array('toto'=>'1234');
+    
+
 ?>
